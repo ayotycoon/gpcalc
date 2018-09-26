@@ -1,11 +1,11 @@
 {
-  "name": "sample",
-  "short_name": "sample",
+  "name": "GpCalc",
+  "short_name": "GpCalc",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/gpcalc/",
+  "start_url": "/gpcalc/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
